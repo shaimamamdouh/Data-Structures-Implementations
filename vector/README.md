@@ -30,4 +30,5 @@ This repository contains a custom implementation of a **dynamic array (Vector)**
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/shaimamamdouh/Data-Structures-Implementations/tree/main/vector>
+
