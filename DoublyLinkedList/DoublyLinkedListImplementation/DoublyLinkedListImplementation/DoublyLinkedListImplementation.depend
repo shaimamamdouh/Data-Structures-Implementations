@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1757699423 source:d:\datastructures\data-structures-implementations\doublylinkedlist\doublylinkedlistimplementation\doublylinkedlistimplementation\dll.cpp
+	"DLL.h"
+
+1757699423 d:\datastructures\data-structures-implementations\doublylinkedlist\doublylinkedlistimplementation\doublylinkedlistimplementation\dll.h
+	<iostream>
+
+1757699017 source:d:\datastructures\data-structures-implementations\doublylinkedlist\doublylinkedlistimplementation\doublylinkedlistimplementation\main.cpp
+	"DLL.h"
+
